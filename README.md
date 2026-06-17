@@ -8,9 +8,7 @@ A responsive frontend clone of Spotify built using **HTML, CSS, and JavaScript**
 
 ## 🌐 Live Demo
 
-👉 **[View Live Website](https://your-deployed-url.com)**
-
-> Replace the above URL with your deployed application link.
+👉 **[View Live Website](https://patrarahul5678.github.io/spotify/)**
 
 ---
 
